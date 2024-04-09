@@ -12,14 +12,14 @@ $(document).ready(function(){
 
 
 
-   // Adicionando evento de clique para o texto dentro de novatarefa
+   
    novatarefa.find('div').click(function() {
     $(this).toggleClass("sublinhado");
 });
 
 
 
-    })
+})
 
 })
 
